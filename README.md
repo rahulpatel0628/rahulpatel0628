@@ -1,4 +1,4 @@
-# Namaste! 🙏 I'm Rahul Patel - Data Scientist
+#  I'm Rahul Patel - Data Scientist
 
 
 *Creating intelligent solutions with data-driven insights*
