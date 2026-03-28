@@ -1,84 +1,67 @@
-#  I'm Rahul Patel - Data Scientist
+# Hey, I’m Rahul 👋
 
+I’m currently a B.Tech student in Ahmedabad, exploring the space where **data, machine learning, and real-world systems meet**.
 
-*Creating intelligent solutions with data-driven insights*
-
-### 📊 About Me
-
-I'm a passionate **Data Scientist** from **Ahmedabad, India** 🇮🇳 with a strong interest in transforming raw data into meaningful insights and predictive models. I enjoy solving complex business problems using statistical analysis, machine learning, and deep learning techniques.
-
-- 🌱 I'm currently learning **Machine Learning,Deep Learning,NLP**
-- 👯 I'm looking to collaborate on **Open-source Data Science projects and AI research**
-- 🤔 I'm looking for help with **Big Data Technologies**
-- 💬 Ask me about **Python, Machine Learning, Data Visualization, SQL, Statistics**
-- 📫 How to reach me: patelrahul0628@gmail.com
-- ⚡ Fun fact: I `can analyze data while enjoying a cup of masala chai`
+My main interest is not just building models, but understanding how they actually **work in production environments** — how they are tracked, versioned, deployed, and improved over time.
 
 ---
 
-### 🛠️ My Data Science Stack
+## What I’m focused on right now
 
-**Programming & Databases:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-**Machine Learning & AI:**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Visualization & Tools:**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-**Deployment & Cloud:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-### 📈 GitHub Stats & Coding Activity
-
-<p align="center">
-  <a href="https://github.com/rahulpate0628">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulpatel0628&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel0628&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel0628&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel0628)" />
-</p>
+* Learning how to design **reliable ML pipelines**
+* Understanding **experiment tracking and reproducibility**
+* Getting hands-on with **AWS services like S3 and EC2**
+* Exploring how **CI/CD fits into machine learning workflows**
 
 ---
 
+## My background
 
+I started with programming and gradually moved into data:
 
-### 🔗 Let's Connect
+* Python and C++ for problem solving
+* Strong foundation in **data structures and logic building**
+* Hands-on experience with **data analysis and visualization**
+* Understanding of **machine learning fundamentals and evaluation techniques**
 
-I'm always excited to discuss data science, collaborate on projects, or explore new opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-patel-843518372)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulpatel16092005)
-
----
-
-
-### 🎯 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulpatel0628&theme=radical&no-frame=true&row=2&column=4" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rahulpatel0628&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-</p>
+Over time, my interest shifted towards **MLOps**, because I realized building a model is just one part — making it usable and scalable is the real challenge.
 
 ---
 
-<p align="center">
-  <i>From Ahmedabad with ❤️ and 📊</i>
-</p>
+## Tools & Technologies I work with
+
+* **Python ecosystem** for data and ML
+* **Pandas, NumPy** for data handling
+* **Matplotlib, Seaborn, Plotly** for visualization
+* **Scikit-learn** for machine learning
+* **MLflow & DVC** for experiment tracking and data versioning
+* **Git & GitHub** for collaboration
+* Basic **AWS (S3, EC2)**
+* **Docker and CI/CD**
+
+---
+
+## How I think
+
+I like to keep things simple and practical.
+
+* I learn by building and experimenting
+* I try to understand the “why” behind tools, not just the “how”
+* I believe consistency matters more than speed
+
+---
+
+## Goal
+
+To grow into a role where I can work on **real-world machine learning systems**, combining both **data science and MLOps practices**.
+
+---
+
+## Contact
+
+* 📧 [rahulpatel16092005@gmail.com](mailto:rahulpatel16092005@gmail.com)
+* 💼 LinkedIn: [linkdin](https://www.linkedin.com/in/rahulpatel0628/)
+
+---
+
+Thanks for stopping by.
