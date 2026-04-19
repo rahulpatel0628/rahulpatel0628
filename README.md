@@ -1,67 +1,121 @@
-# Hey, I’m Rahul 👋
+# Hey, I’m Rahul Patel 
 
-I’m currently a B.Tech student in Ahmedabad, exploring the space where **data, machine learning, and real-world systems meet**.
-
-My main interest is not just building models, but understanding how they actually **work in production environments** — how they are tracked, versioned, deployed, and improved over time.
-
----
-
-## What I’m focused on right now
-
-* Learning how to design **reliable ML pipelines**
-* Understanding **experiment tracking and reproducibility**
-* Getting hands-on with **AWS services like S3 and EC2**
-* Exploring how **CI/CD fits into machine learning workflows**
+ B.Tech Student |  Ahmedabad, India
+ Data Scientist | Machine Learning Engineer | MLOps Enthusiast
 
 ---
 
-## My background
+## About Me
 
-I started with programming and gradually moved into data:
+I build **end-to-end machine learning systems** — from data processing to deployment.
 
-* Python and C++ for problem solving
-* Strong foundation in **data structures and logic building**
-* Hands-on experience with **data analysis and visualization**
-* Understanding of **machine learning fundamentals and evaluation techniques**
+My focus is not just on training models, but on making them **reliable, scalable, and production-ready** using MLOps practices.
 
-Over time, my interest shifted towards **MLOps**, because I realized building a model is just one part — making it usable and scalable is the real challenge.
+I have hands-on experience working on **real-world datasets**, building pipelines, tracking experiments, and managing data workflows.
 
 ---
 
-## Tools & Technologies I work with
+## Core Expertise
 
-* **Python ecosystem** for data and ML
-* **Pandas, NumPy** for data handling
-* **Matplotlib, Seaborn, Plotly** for visualization
-* **Scikit-learn** for machine learning
-* **MLflow & DVC** for experiment tracking and data versioning
-* **Git & GitHub** for collaboration
-* Basic **AWS (S3, EC2)**
-* **Docker and CI/CD**
+* Designing and implementing **ML pipelines**
+* Building **data-driven applications with real datasets**
+* Applying **MLOps practices (MLflow, DVC, CI/CD)**
+* Performing **data analysis, feature engineering & visualization**
+* Writing **clean, modular, and production-ready code**
 
 ---
 
-## How I think
+## Tech Stack
 
-I like to keep things simple and practical.
+### Programming
 
-* I learn by building and experimenting
-* I try to understand the “why” behind tools, not just the “how”
-* I believe consistency matters more than speed
+* Python
+* C++
+* Java
+
+### Data Science & Machine Learning
+
+* Pandas, NumPy
+* Matplotlib, Seaborn, Plotly
+* Scikit-learn, Pytorch, Tensorflow, NLTK
+* Feature Engineering
+* Model Evaluation & Optimization
+
+### MLOps & Tools
+
+* MLflow (Experiment Tracking)
+* DVC (Data Versioning & Pipelines)
+* Git & GitHub
+* Docker
+* CI/CD
+* AWS (S3, EC2)
+
+### Computer Science Fundamentals
+
+* Data Structures & Algorithms (DSA)
+* Object-Oriented Programming (OOPs)
+* Database Management Systems (DBMS)
+* Computer Networks (CN)
+* Operating Systems (OS)
 
 ---
 
-## Goal
+## Featured Projects
 
-To grow into a role where I can work on **real-world machine learning systems**, combining both **data science and MLOps practices**.
+### Swiggy Delivery Time Prediction
+
+* Built a complete ML pipeline for delivery time prediction
+* Performed advanced feature engineering on logistics data
+* Applied model evaluation techniques to improve accuracy
+* Structured project with reproducible workflow
+
+🔗 https://github.com/rahulpatel0628/swiggy-delivery-time-prediction
 
 ---
 
-## Contact
+### YouTube Comment Sentiment Analysis
 
-* 📧 [rahulpatel16092005@gmail.com](mailto:rahulpatel16092005@gmail.com)
-* 💼 LinkedIn: [linkdin](https://www.linkedin.com/in/rahulpatel0628/)
+* Developed NLP-based sentiment analysis system
+* Implemented insights like sentiment distribution, spam/troll detection
+* Built visual dashboards and export features (CSV/PDF)
+* Handled real dataset (~38K records) with preprocessing
+
+🔗 https://github.com/rahulpatel0628/youtube-comment-analysis
 
 ---
 
-Thanks for stopping by.
+### Emotion Detection System
+
+* Built emotion classification model from text data
+* Applied preprocessing, vectorization & classification techniques
+* Designed system for real-world usability
+
+🔗 https://github.com/rahulpatel0628/emotion-detection-v1
+
+---
+
+## What Makes Me Different
+
+* I don’t just build models — I build **complete systems**
+* I focus on **real-world implementation, not just theory**
+* I understand both **Data Science + MLOps workflow**
+* I can take a project from **raw data → deployed pipeline**
+
+---
+
+## Career Objective
+
+To work in a role where I can contribute to building
+**scalable, production-grade machine learning systems**
+and continuously improve them using **data and engineering practices**.
+
+---
+
+## Connect With Me
+
+* [rahulpatel16092005@gmail.com](mailto:rahulpatel16092005@gmail.com)
+* https://www.linkedin.com/in/rahulpatel0628/
+
+---
+
+⭐ *Open to internships, collaborations, and full-time opportunities.*
