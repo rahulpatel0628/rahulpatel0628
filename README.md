@@ -17,6 +17,32 @@ Currently exploring Agentic AI, LangGraph, LangChain, RAG Systems, and Productio
 * 💡 Passionate about solving real-world problems using AI
 
 ---
+# 💼 Experience
+## 🚀 Backend AI Engineer | FlyRank AI
+ July 2026 – Present | Remote, Chicago, Illinois
+
+* Building AI-powered backend systems and scalable APIs using FastAPI.
+* Developing Multi-Agent AI applications using LangChain and LangGraph.
+* Integrating Large Language Models (LLMs) into production workflows.
+* Designing AI automation systems and intelligent backend architectures.
+* Working with PostgreSQL, Docker, and AWS services.
+* Improving application scalability, performance, and maintainability.
+
+Tech Stack: Python, FastAPI, LangChain, LangGraph, AI Agents, PostgreSQL, Docker, AWS
+
+## 🧠 Data Scientist Intern | BrainyBeam Pvt. Ltd.
+
+ May 2026 – June 2026 | Ahmedabad, Gujarat
+
+* Performed data preprocessing and feature engineering on real-world datasets.
+* Developed and evaluated Machine Learning models.
+* Created data visualizations and analytical reports.
+* Worked on predictive analytics and model optimization.
+* Collaborated with teams to deliver data-driven insights.
+
+Tech Stack: Python, Scikit-Learn, Pandas, NumPy, SQL, Machine Learning
+
+---
 
 ## 🛠️ Tech Stack
 
