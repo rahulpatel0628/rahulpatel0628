@@ -1,121 +1,210 @@
-# Hey, I’m Rahul Patel 
+# Hi 👋, I'm Rahul Patel
 
- B.Tech Student |  Ahmedabad, India
- Data Scientist | Machine Learning Engineer | MLOps Enthusiast
+### AI/ML Engineer | MLOps Enthusiast | Agentic AI Developer
 
----
+I'm a B.Tech ICT student passionate about building AI-powered applications, Multi-Agent Systems, MLOps pipelines, and LLM-based products.
 
-## About Me
-
-I build **end-to-end machine learning systems** — from data processing to deployment.
-
-My focus is not just on training models, but on making them **reliable, scalable, and production-ready** using MLOps practices.
-
-I have hands-on experience working on **real-world datasets**, building pipelines, tracking experiments, and managing data workflows.
+Currently exploring Agentic AI, LangGraph, LangChain, RAG Systems, and Production ML.
 
 ---
 
-## Core Expertise
+## 🚀 About Me
 
-* Designing and implementing **ML pipelines**
-* Building **data-driven applications with real datasets**
-* Applying **MLOps practices (MLflow, DVC, CI/CD)**
-* Performing **data analysis, feature engineering & visualization**
-* Writing **clean, modular, and production-ready code**
+* 🎓 B.Tech ICT Student
+* 🤖 Interested in AI Engineering, MLOps & Agentic AI
+* 🔭 Building AI Applications using LangGraph, LangChain and LLMs
+* 🌱 Learning Advanced AI Systems, RAG Architectures and Multi-Agent Workflows
+* 💡 Passionate about solving real-world problems using AI
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Programming
+### Programming Languages
 
 * Python
 * C++
 * Java
+* SQL
 
-### Data Science & Machine Learning
+### Artificial Intelligence
 
-* Pandas, NumPy
-* Matplotlib, Seaborn, Plotly
-* Scikit-learn, Pytorch, Tensorflow, NLTK
-* Feature Engineering
-* Model Evaluation & Optimization
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Transformers
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
 
-### MLOps & Tools
+### AI Frameworks
 
-* MLflow (Experiment Tracking)
-* DVC (Data Versioning & Pipelines)
-* Git & GitHub
+* Scikit-Learn
+* PyTorch
+* LangChain
+* LangGraph
+* CrewAI
+* LangSmith
+
+### Backend Development
+
+* FastAPI
+* Flask
+* Streamlit
+* Pydantic
+
+### MLOps & DevOps
+
+* MLflow
+* DVC
+* DagsHub
 * Docker
 * CI/CD
-* AWS (S3, EC2)
+* GitHub Actions
+* Git
+* GitHub
 
-### Computer Science Fundamentals
+### Cloud & Databases
 
-* Data Structures & Algorithms (DSA)
-* Object-Oriented Programming (OOPs)
-* Database Management Systems (DBMS)
-* Computer Networks (CN)
-* Operating Systems (OS)
+* AWS EC2
+* AWS S3
+* AWS ECR
+* AWS IAM
+* MySQL
+* PostgreSQL
 
----
+### Computer Science
 
-## Featured Projects
-
-### Swiggy Delivery Time Prediction
-
-* Built a complete ML pipeline for delivery time prediction
-* Performed advanced feature engineering on logistics data
-* Applied model evaluation techniques to improve accuracy
-* Structured project with reproducible workflow
-
-🔗 https://github.com/rahulpatel0628/swiggy-delivery-time-prediction
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
 
 ---
 
-### YouTube Comment Sentiment Analysis
+## 📌 Featured Projects
 
-* Developed NLP-based sentiment analysis system
-* Implemented insights like sentiment distribution, spam/troll detection
-* Built visual dashboards and export features (CSV/PDF)
-* Handled real dataset (~38K records) with preprocessing
+### 🤖 AI Software Development Agent
 
-🔗 https://github.com/rahulpatel0628/youtube-comment-analysis
+Multi-Agent Software Engineering System built using LangGraph.
 
----
+Features:
 
-### Emotion Detection System
+* Team Lead Agent
+* Backend Agent
+* Frontend Agent
+* Reviewer Agent
+* Tester Agent
 
-* Built emotion classification model from text data
-* Applied preprocessing, vectorization & classification techniques
-* Designed system for real-world usability
+Tech Stack:
+LangGraph • LangChain • Groq • Python • Streamlit
 
-🔗 https://github.com/rahulpatel0628/emotion-detection-v1
-
----
-
-## What Makes Me Different
-
-* I don’t just build models — I build **complete systems**
-* I focus on **real-world implementation, not just theory**
-* I understand both **Data Science + MLOps workflow**
-* I can take a project from **raw data → deployed pipeline**
+GitHub:
+https://github.com/rahulpatel0628/software-developement-agent
 
 ---
 
-## Career Objective
+### 📈 AI Financial Research Assistant
 
-To work in a role where I can contribute to building
-**scalable, production-grade machine learning systems**
-and continuously improve them using **data and engineering practices**.
+AI-powered financial analysis platform that combines:
+
+* Market Data Analysis
+* News Research
+* RAG-based Document Understanding
+* Multi-Agent Workflow
+
+Tech Stack:
+LangChain • LangGraph • Groq • Python • Streamlit • RAG
+
+GitHub:
+https://github.com/rahulpatel0628/AI-Financial-Research-Assistant
 
 ---
 
-## Connect With Me
+### 💬 RAG-Based Chatbot
 
-* [rahulpatel16092005@gmail.com](mailto:rahulpatel16092005@gmail.com)
-* https://www.linkedin.com/in/rahulpatel0628/
+Document Question Answering System using Retrieval-Augmented Generation.
+
+Tech Stack:
+LangChain • RAG • Groq • Python
+
+GitHub:
+https://github.com/rahulpatel0628/chatbot
 
 ---
 
-⭐ *Open to internships, collaborations, and full-time opportunities.*
+### 🚚 Swiggy Delivery Time Prediction
+
+End-to-End MLOps Project.
+
+Features:
+
+* Model Training
+* Experiment Tracking
+* Docker Deployment
+* AWS Deployment
+* CI/CD Pipeline
+
+Tech Stack:
+Python • Machine Learning • FastAPI • Docker • AWS • MLflow
+
+GitHub:
+https://github.com/rahulpatel0628/swiggy-delivery-time-prediction
+
+---
+
+### 😊 Emotion Detection using NLP
+
+End-to-End NLP & MLOps Project for emotion classification.
+
+Tech Stack:
+Python • NLP • FastAPI • Docker • AWS • MLflow
+
+GitHub:
+https://github.com/rahulpatel0628/emotion-detection-v1
+
+---
+
+### 🎥 YouTube Comment Analysis Chrome Extension
+
+Chrome Extension for sentiment and comment analysis.
+
+Tech Stack:
+Python • NLP • FastAPI • Docker • AWS
+
+GitHub:
+https://github.com/rahulpatel0628/youtube-comment-analysis
+
+---
+
+### 🏠 Real Estate Price Prediction & Recommendation System
+
+Machine Learning-based property price prediction and recommendation platform.
+
+Tech Stack:
+Python • Machine Learning
+
+GitHub:
+https://github.com/rahulpatel0628/real-estate-prediction-and-recommendation
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email:
+[rahulpatel16092005@gmail.com](mailto:rahulpatel16092005@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/rahulpatel0628
+
+🌐 Portfolio:
+https://rahulpatel.lovable.app/
+
+🧩 LeetCode:
+https://leetcode.com/u/patelrahul0628/
+
+📚 GeeksforGeeks:
+https://www.geeksforgeeks.org/profile/patelrahsql7
+
+---
+
+⭐ Turning Ideas into Intelligent Systems
