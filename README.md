@@ -808,16 +808,6 @@ Some repositories worth checking out:
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions in your profile repository and create a workflow using
-> `Platane/snk` to generate the snake animation.
-
-```md
-![Snake animation](https://github.com/rahulpatel0628/rahulpatel0628/blob/output/github-contribution-grid-snake.svg)
-```
----
-
 # ⭐ Fun Facts
 
 - 🤖 I enjoy building AI products from scratch.
