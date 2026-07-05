@@ -49,26 +49,6 @@ I believe AI should not only answer questions—it should **reason, collaborate,
 
 ---
 
-# 🚀 Current Focus
-
-```text
-Learning
-    │
-    ▼
-CrewAI Flows
-    │
-    ▼
-Multi-Agent AI Systems
-    │
-    ▼
-Production LLM Applications
-    │
-    ▼
-AI SaaS Products
-```
-
----
-
 # 💼 Professional Experience
 
 ## 🚀 Backend AI Engineer | FlyRank AI
