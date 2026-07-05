@@ -814,23 +814,8 @@ Some repositories worth checking out:
 > `Platane/snk` to generate the snake animation.
 
 ```md
-![Snake animation](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rahulpatel0628/rahulpatel0628/blob/output/github-contribution-grid-snake.svg)
 ```
-
-Replace `<your-username>` with:
-
-```text
-rahulpatel0628
-```
-
----
-
-# 📈 Visitor Counter
-
-```md
-![](https://komarev.com/ghpvc/?username=rahulpatel0628&color=blueviolet&style=for-the-badge)
-```
-
 ---
 
 # ⭐ Fun Facts
