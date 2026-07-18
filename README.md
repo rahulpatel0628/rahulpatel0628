@@ -54,7 +54,6 @@ I believe AI should not only answer questions—it should **reason, collaborate,
 ## 🚀 Backend AI Engineer | FlyRank AI
 
 📍 Remote • Chicago, Illinois
-
 📅 July 2026 — Present
 
 ### Responsibilities
@@ -71,9 +70,7 @@ I believe AI should not only answer questions—it should **reason, collaborate,
 ### Tech Stack
 
 `Python` • `FastAPI` • `LangChain` • `LangGraph`
-
 `CrewAI` • `PostgreSQL`
-
 `Docker` • `AWS`
 
 ---
@@ -81,7 +78,6 @@ I believe AI should not only answer questions—it should **reason, collaborate,
 ## 🧠 Data Scientist Intern | BrainyBeam Pvt. Ltd.
 
 📍 Ahmedabad, Gujarat
-
 📅 May 2026 — June 2026
 
 ### Responsibilities
@@ -97,13 +93,9 @@ I believe AI should not only answer questions—it should **reason, collaborate,
 ### Tech Stack
 
 `Python`
-
 `Scikit-Learn`
-
 `Pandas`
-
 `NumPy`
-
 `SQL`
 
 ---
